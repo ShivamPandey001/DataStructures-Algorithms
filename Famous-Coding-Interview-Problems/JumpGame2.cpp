@@ -1,4 +1,5 @@
 //https://www.youtube.com/watch?v=hZkb_Dqu7YY
+//follow above link to see video
 class Solution {
 public:
     int jump(vector<int>& nums) {
